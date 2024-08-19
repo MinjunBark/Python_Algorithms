@@ -15,6 +15,5 @@ if __name__ == "__main__":
     x = [2, 7, 11, 15]
     target = 9
     
-    result = twoSum(x,target)
-    
+    result = twoSum(x,target) 
     print(result)
